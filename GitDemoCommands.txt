@@ -13,3 +13,5 @@ Git commands
 6.git checkout -b Rama
 
 7.git commit -m "photo"
+hello @ hii alla 
+welcome to git world
